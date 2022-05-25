@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "node teste2.js",
+    "dev": "node teste2.js"
+  },
+  "dependencies": {
+    "async": "^3.2.3",
+    "autocannon": "^7.6.0",
+    "newman": "^5.3.1",
+    "path": "^0.12.7"
+  }
+}
